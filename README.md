@@ -1,5 +1,5 @@
 # Seguid-a-Cristo-Facebook-Report
-5 Facebook page Report to measure the progress and effort of the team, using technologies including: Power BI and Google Data Studio.
+2 Facebook page Reports to measure the progress and effort of the team, using technologies including: Power BI and Google Data Studio.
 
 The database system was constructed in the cloud service system named "Google Drive", which is a very effective and simple way to store useful data across all this organization team.
 
